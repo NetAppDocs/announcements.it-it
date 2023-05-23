@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: active-iq.html 
+keywords: announcements, documentation, netapp active iq, active iq 
+summary: 'La documentazione per NetApp Active IQ è ora disponibile all"indirizzo https://docs.netapp.com[].' 
+last_modified: 03-Apr-2019 
+---
+= Documenti per NetApp Active IQ
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La documentazione per NetApp Active IQ è ora disponibile all'indirizzo https://docs.netapp.com["docs.netapp.com"^].
+
+Il motore di intelligence NetApp Active IQ è un servizio basato sul cloud che offre analisi predittive e supporto proattivo per ottimizzare le operazioni nel cloud ibrido NetApp.
+
+Accedere alla https://docs.netapp.com/us-en/active-iq/["Documentazione Active IQ"^] per scoprire come iniziare.
+
+image:active-iq.gif[""]

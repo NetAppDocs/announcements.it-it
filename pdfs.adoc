@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: pdfs.html 
+keywords: pdfs, announcement, download pdf, download a pdf 
+summary: Abbiamo ascoltato il tuo feedback e aggiunto la possibilità di scaricare i PDF direttamente dai nostri documenti HTML. In questo modo, potrai portare i nostri contenuti in viaggio con facilità. 
+last_modified: 28-Apr-2020 
+---
+= Scarica un PDF
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Abbiamo ascoltato il tuo feedback e aggiunto la possibilità di scaricare i PDF direttamente dai nostri documenti HTML. In questo modo, potrai portare i nostri contenuti in viaggio con facilità.
+
+Puoi scaricare un PDF in diversi modi.
+
+Il primo metodo consiste nel scaricare un PDF della pagina visualizzata.
+
+image:download-pdf-topic.gif["Una schermata dell'opzione Scarica PDF di questo argomento visualizzata nella parte superiore di una pagina."]
+
+Sono disponibili ulteriori opzioni sopra l'indice a sinistra. Fare clic su *Download PDF* per visualizzare le opzioni per generare un PDF dell'intero sito doc, dell'intera sezione (se la sezione contiene più pagine) o solo della pagina visualizzata.
+
+image:download-pdf-toc.gif["Una schermata dell'opzione Download PDF (Scarica PDF) visualizzata sopra il sommario."]
+
+Stiamo ancora lavorando a questa funzionalità, quindi per il momento è consigliabile "scaricare un PDF" come funzionalità BETA. Esistono alcuni problemi noti, ad esempio i collegamenti all'interno del PDF che fanno riferimento alle pagine HTML.
+
+Hai notato il messaggio della data nella parte inferiore della pagina del titolo del PDF? Lo mettiamo in pratica perché aggiorniamo e miglioriamo costantemente i nostri contenuti, quindi dovresti pianificare di utilizzare questi PDF per brevi intervalli. Ad esempio, sono utili se stai per un volo o se stai andando in una posizione sicura dove Internet non è disponibile. Non dovreste fare riferimento a quel PDF mesi dopo - ci è una probabilità molto buona che sarà fuori di data. Assicurati di scaricare i contenuti più recenti.

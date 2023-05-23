@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: rss.html 
+keywords: announcements, rss feeds 
+summary: 'Abbiamo aggiunto un pulsante RSS a ogni pagina "Novità" nei documenti, in modo da poter ricevere aggiornamenti dei contenuti nel tuo lettore di feed RSS preferito. Questi feed ti consentono di restare aggiornato sulle nuove funzionalità e sui miglioramenti introdotti nei prodotti e nei servizi NetApp.' 
+last_modified: 21-Mar-2019 
+---
+= Feed RSS sulle nuove pagine
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Abbiamo aggiunto un pulsante RSS a ogni pagina "Novità" nei documenti, in modo da poter ricevere aggiornamenti dei contenuti nel tuo lettore di feed RSS preferito. Questi feed ti consentono di restare aggiornato sulle nuove funzionalità e sui miglioramenti introdotti nei prodotti e nei servizi NetApp.
+
+Vai alla pagina "Novità" per il prodotto o il servizio che ti interessa. Ecco un esempio per https://docs.netapp.com/us-en/cloud-tiering/reference_new.html["Servizio Cloud Tiering"^]:
+
+image:rss.gif[""]
+
+A seconda del lettore di feed RSS, copiare l'URL della pagina o fare clic su *RSS Subscribe* e copiare l'URL del feed. Cercare l'URL nel lettore e iniziare a seguire. Ogni volta che le pagine vengono aggiornate, dovresti ricevere aggiornamenti nei feed.

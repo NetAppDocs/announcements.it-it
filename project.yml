@@ -1,0 +1,77 @@
+---
+settings:
+  name: Announcements
+  rss_page: index.html
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    lipi_enabled: false
+    harmony_enabled: false
+  langs: it-it,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr
+sidebar:
+  entries:
+  - title: Benvenuto!
+    url: "/index.html"
+  - title: '2021'
+    entries:
+    - title: Documenti per la famiglia di prodotti Astra
+      url: "/astra-family.html"
+    - title: Documenti per Astra Data Store
+      url: "/astra-data-store.html"
+    - title: Documenti per Astra Trident
+      url: "/astra-trident.html"
+    - title: Documenti per Astra Control Center
+      url: "/astra_control_center.html"
+    - title: Il ramo predefinito è stato rinominato principale
+      url: "/default-branch-rename.html"
+  - title: '2020'
+    entries:
+    - title: Aggiornamento del documento NetApp HCI
+      url: "/hci-update.html"
+    - title: Scarica un PDF
+      url: "/pdfs.html"
+    - title: Esperienza utente migliorata
+      url: "/look-and-feel.html"
+    - title: Documenti per Gestore di sistema di ONTAP
+      url: "/ontap-system-manager.html"
+    - title: Documenti per la conformità del cloud
+      url: "/cloud-compliance.html"
+    - title: Documenti per ONTAP Select
+      url: "/ontap-select.html"
+  - title: '2019'
+    entries:
+    - title: Documenti per soluzioni e servizi cloud NetApp HCI
+      url: "/hci.html"
+    - title: Guida allo stile e sintassi di riferimento
+      url: "/style-and-syntax.html"
+    - title: Docs for SaaS Backup for Salesforce
+      url: "/salesforce.html"
+    - title: Documenti per Active IQ
+      url: "/active-iq.html"
+    - title: Feed RSS sulle nuove pagine
+      url: "/rss.html"
+    - title: Documenti per il Cloud Tiering
+      url: "/cloud-tiering.html"
+    - title: GitHub avatar per i collaboratori
+      url: "/avatars.html"
+  - title: '2018'
+    entries:
+    - title: Evidenziazione della sintassi
+      url: "/syntax.html"
+    - title: Navigazione a livello di pagina
+      url: "/navigation.html"
+    - title: Documenti per Converged Systems Advisor
+      url: "/converged-systems-advisor.html"
+    - title: Nuovo modo per richiedere modifiche al documento
+      url: "/request-doc-changes.html"
+    - title: Documenti per Cloud Insights
+      url: "/cloud-insights.html"
+    - title: Documenti per Cloud Volumes ONTAP
+      url: "/cloud-volumes-ontap.html"
+    - title: Documenti per Cloud Volumes Service per AWS
+      url: "/cloud-volumes-service.html"
+    - title: Docs for SaaS Backup for Office 365
+      url: "/office365.html"
+    - title: Presentazione dei documenti NetApp in GitHub
+      url: "/introduction.html"

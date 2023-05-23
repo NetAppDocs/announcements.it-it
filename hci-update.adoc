@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: hci-update.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: Con la release NetApp HCI 1.8, siamo lieti di annunciare che abbiamo aggiunto molte altre informazioni su NetApp HCI nel docs.netapp.com. 
+last_modified: 29-May-2020 
+---
+= Aggiornamento DOC per NetApp HCI
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Con la release NetApp HCI 1.8, siamo lieti di annunciare che abbiamo aggiunto molte altre informazioni su NetApp HCI nel docs.netapp.com.
+
+Per questo aggiornamento, troverai questi nuovi argomenti:
+
+* Una sezione delle note di rilascio che raccoglie le novità e le note di rilascio per NetApp HCI, il software NetApp Element, i servizi di gestione e il plug-in NetApp Element per vCenter Server in un'unica posizione
+* Una nuova panoramica introduttiva sull'installazione e sull'implementazione
+* Ulteriori procedure relative all'espansione e al monitoraggio del sistema
+* Una sezione per i concetti di base, ad esempio i cluster e i nodi e una spiegazione della qualità dei livelli di servizio che è possibile impostare per gestire le performance
+* Una posizione centralizzata per l'aggiornamento end-to-end di NetApp HCI, che include informazioni su come aggiornare i servizi di gestione, HealthTools, il software Element e il plug-in Element per vCenter Server
+
+
+Date un'occhiata e contribuite a questa documentazione per NetApp HCI. Puoi modificare, richiedere una modifica o persino inviare un feedback. Passare a. https://docs.netapp.com/us-en/hci/docs/index.html["Documentazione NetApp HCI"^] per iniziare.
+
+image:hci-update.gif["Una schermata che mostra il sito di documentazione HCI su docs.netapp.com."]

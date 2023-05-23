@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: ontap-system-manager.html 
+keywords: announcements, documentation, ontap system manager, system manager 
+summary: Ora che ONTAP 9.7 è generalmente disponibile, abbiamo voluto annunciare che abbiamo aggiunto il contenuto riprogettato per Gestione di sistema di ONTAP a docs.netapp.com. 
+last_modified: 23-Jan-2020 
+---
+= Documenti per Gestore di sistema di ONTAP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Ora che ONTAP 9.7 è generalmente disponibile, abbiamo voluto annunciare che abbiamo aggiunto il contenuto riprogettato per Gestione di sistema di ONTAP a docs.netapp.com.
+
+A partire da ONTAP 9.7, un gestore di sistema ONTAP completamente riprogettato semplifica la gestione di ONTAP con un'interfaccia utente grafica intuitiva. La nuova dashboard mostra lo stato e le prestazioni principali del cluster su un'unica schermata.
+
+Anche la documentazione di Gestione di sistema di ONTAP è stata completamente riprogettata. I contenuti facili da navigare sono semplici e veloci da utilizzare. Guarda i video integrati per una rapida panoramica delle principali attività di gestione.
+
+Accedere alla https://docs.netapp.com/us-en/ontap/index.html["Documentazione di Gestore di sistema di ONTAP"] per iniziare.
+
+image:ontap-system-manager.gif["Una schermata del contenuto Cloud Compliance nella documentazione di Cloud Manager"].

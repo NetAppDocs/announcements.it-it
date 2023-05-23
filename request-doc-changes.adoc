@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: 'Se desideri richiedere modifiche ai documenti e non desideri modificare direttamente il contenuto di origine, ora puoi fornire un feedback facendo clic su Request Doc Changes (Richiedi modifiche al documento).' 
+last_modified: 19-Feb-2019 
+---
+= Richiedi modifiche al documento
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Se desideri richiedere modifiche ai documenti e non desideri modificare direttamente il contenuto di origine, ora puoi fornire un feedback facendo clic su *Richiedi modifiche al documento*.
+
+Questo nuovo pulsante viene visualizzato nella parte superiore di ogni pagina:
+
+image:request-doc-changes.png[""]
+
+Quando fai clic su *Richiedi modifiche doc*, ti viene richiesto di creare o accedere al tuo account GitHub (è semplice e gratuito creare un account).
+
+Dopo aver effettuato l'accesso, viene visualizzato un modulo per creare un nuovo problema con GitHub. La casella di testo contiene il titolo e l'URL della pagina. Non eliminare queste informazioni: Ci aiuta a identificare la pagina in cui è stato rilevato il problema.
+
+image:github-issue.png[""]
+
+Fornire i dettagli nella casella di testo, quindi fare clic su *Invia nuovo problema* per creare un problema per la richiesta.
+
+Rivedremo il tuo feedback e lo prenderemo da lì.

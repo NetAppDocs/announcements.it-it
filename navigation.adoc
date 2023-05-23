@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: La navigazione a livello di pagina è ora inclusa in ogni pagina con più intestazioni. 
+last_modified: 26-Nov-2018 
+---
+= Navigazione a livello di pagina
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La navigazione a livello di pagina è ora inclusa in ogni pagina che ha più sezioni.
+
+Questo miglioramento consente di visualizzare facilmente la posizione dell'utente durante lo scorrimento e di passare a una sezione specifica della pagina.
+
+image:navigation.gif[""]

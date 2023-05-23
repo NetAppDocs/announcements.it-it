@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: hci.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: Sono ora disponibili documenti per i servizi cloud e le soluzioni NetApp HCI. 
+last_modified: 20-Dec-2019 
+---
+= Documenti per NetApp HCI
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Abbiamo aggiunto documenti per abilitare i servizi cloud su NetApp HCI e per accedere al catalogo di soluzioni NetApp HCI.
+
+Passare a. https://docs.netapp.com/us-en/hci/index.html["Servizi e soluzioni cloud NetApp HCI"] Per scoprire come iniziare a utilizzare i servizi cloud su NetApp HCI e come utilizzare le soluzioni con NetApp HCI.
+
+Le informazioni sui servizi cloud spiegano come abilitare i servizi cloud utilizzando il controllo del cloud ibrido di NetApp HCI, come creare cluster e implementare rapidamente le applicazioni utilizzando il servizio Kubernetes di NetApp e come creare volumi cloud su NetApp HCI utilizzando NetApp Fabric Orchestrator. Fabric Orchestrator è un piano di controllo centralizzato per la gestione dei dati e dello storage per rilevare e gestire le risorse di storage e i dati ovunque.
+
+image:hci_cloudservices.gif["Documentazione dei servizi cloud di NetApp HCI"]
+
+Abbiamo inoltre aggiunto il catalogo delle soluzioni NetApp HCI, che fornisce ai clienti le informazioni necessarie per implementare e utilizzare cloud privati, supportando un'ampia varietà di casi di utilizzo, sia on-premise che off-premise. Le soluzioni NetApp HCI offrono funzionalità a valore aggiunto in aree pubbliche, private, ibride e multi-cloud in aree tecnologiche come DevOps, end user computing, applicazioni aziendali, intelligenza artificiale, protezione dei dati e gestione del data fabric.
+
+image:hci_solutions_catalog.gif["Catalogo di soluzioni NetApp HCI"]

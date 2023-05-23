@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: salesforce.html 
+keywords: announcements, documentation, salesforce, saas backup for salesforce 
+summary: 'Abbiamo aggiunto documenti per un nuovo servizio NetApp. La documentazione per NetApp SaaS Backup for Salesforce è ora disponibile all"interno del sito https://docs.netapp.com[].' 
+last_modified: 04-Jun-2019 
+---
+= Documenti per NetApp SaaS Backup per Salesforce
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Abbiamo aggiunto documenti per un nuovo servizio NetApp. La documentazione per NetApp SaaS Backup for Salesforce è ora disponibile all'interno del sito https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp SaaS Backup è un servizio sicuro e nativo del cloud che esegue il backup dei dati Salesforce sullo storage Amazon S3. SaaS Backup aiuta a proteggere i tuoi dati da minacce o cancellazioni accidentali.
+
+Accedere alla https://docs.netapp.com/us-en/salesforce/["NetApp SaaS Backup per la documentazione di Salesforce"^] per scoprire come iniziare.
+
+image:salesforce.gif[""]

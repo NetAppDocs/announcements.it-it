@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: Abbiamo rinominato la filiale predefinita da master a main per tutti i repository di documentazione tecnica NetApp in GitHub. Questo cambiamento fa parte del nostro impegno continuo per rimuovere il linguaggio non inclusivo nella nostra documentazione tecnica. 
+last_modified: 05-Mar-2021 
+---
+= Ramo predefinito rinominato "principale"
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Abbiamo rinominato la filiale predefinita da master a main per tutti i repository di documentazione tecnica NetApp in https://github.com/NetAppDocs/["GitHub"^]. Questo cambiamento fa parte del nostro impegno continuo per rimuovere il linguaggio non inclusivo nella nostra documentazione tecnica.
+
+image:default-branch-rename.png[""]

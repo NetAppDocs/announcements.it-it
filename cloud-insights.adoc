@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: cloud-insights.html 
+keywords: announcements, documentation, cloud insights 
+summary: La documentazione per il nuovo servizio Cloud Insights di NetApp è ora disponibile sul sito docs.netapp.com. 
+last_modified: 17-Jun-2018 
+---
+= Documenti per Cloud Insights
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La documentazione per il nuovo servizio Cloud Insights di NetApp è ora disponibile all'indirizzo https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp Cloud Insights è uno strumento di monitoraggio dell'infrastruttura cloud che offre visibilità sull'intera infrastruttura. Con Cloud Insights, puoi monitorare, risolvere i problemi e ottimizzare tutte le risorse, inclusi i cloud pubblici e i data center privati.
+
+Accedere alla https://docs.netapp.com/us-en/cloudinsights/["Documentazione Cloud Insights"^] per scoprire come iniziare.
