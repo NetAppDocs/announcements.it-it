@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>announcements | NetApp Documentation</title>
+    <atom:link href="https://docs.netapp.com/it-it/announcements/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://docs.netapp.com/it-it/announcements</link>
+    <description>The latest updates from NetApp Documentation</description>
+    <language>it-it</language>
+    <ttl>60</ttl>
+    <pubDate>Tue, 23 May 2023 11:54:39 +0000</pubDate>
+    <lastBuildDate>Tue, 23 May 2023 11:54:39 +0000</lastBuildDate>
+    
+    
+    
+    <item>
+      <title>Annunci dei documenti di NetApp (23 May 2023)</title>
+      <pubDate>Tue, 23 May 2023 11:52:55 +0000</pubDate>
+      <link>https://docs.netapp.com/it-it/announcements/index.html?time=1684842775</link>
+      <guid isPermaLink="false">Tue, 23 May 2023 11:52:55 +0000</guid>
+      <description><![CDATA[  ]]></description>
+    </item>
+    
+    
+  </channel>
+</rss>
